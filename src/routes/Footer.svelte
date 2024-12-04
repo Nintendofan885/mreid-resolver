@@ -3,7 +3,7 @@
         <div>
             Text is available under the
             <a
-                href="https://en.wikipedia.org/wiki/Wikipedia:Text_of_Creative_Commons_Attribution-ShareAlike_4.0_International_License"
+                href="https://en.wikipedia.org/wiki/Wikipedia:Text_of_the_Creative_Commons_Attribution-ShareAlike_4.0_International_License"
             >
                 Creative Commons Attribution-ShareAlike License</a
             >.
